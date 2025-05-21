@@ -19,8 +19,3 @@ This R project visualizes the international flight routes from Bangladesh using 
 ├── README.md           # Project overview
 ├── .gitignore          # Files to ignore in Git
 └── LICENSE             # License info
-
-Make sure you have the following R packages installed:
-pacman::p_load(tidyverse, sf, igraph, tidygraph, ggraph,
-               ggplot2, ggspatial, rnaturalearth,
-               rnaturalearthdata, maps, ggrepel, RColorBrewer)
