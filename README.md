@@ -3,6 +3,11 @@
 
 This R project visualizes the international flight routes from Bangladesh using OpenFlights data and shapefiles for geographic context.
 
+## 🔗 Useful Links
+
+- [Go to Live Interaction Map](https://parvej.me/bdflight/)
+- [Full R Code](https://github.com/iu-parvej/Bangladesh-Flight-Network/blob/main/Interactive_version_bangladesh_flight_network.R)
+
 ## 📌Features
 
 - Visualizes international routes departing from Bangladeshi airports
