@@ -5,7 +5,7 @@ This R project visualizes the international flight routes from Bangladesh using 
 
 ## 🔗 Useful Links
 
-- [Go to Live Interaction Map](bdflight.netlify.app)
+- [Go to Live Interaction Map](HTTP://bdflight.netlify.app)
 - [Full R Code](https://github.com/iu-parvej/Bangladesh-Flight-Network/blob/main/Interactive_version_bangladesh_flight_network.R)
 
 ## 📌Features
